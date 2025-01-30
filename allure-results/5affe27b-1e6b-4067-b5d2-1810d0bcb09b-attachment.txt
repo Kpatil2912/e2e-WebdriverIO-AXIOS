@@ -1,0 +1,7 @@
+{
+  "cookie": [
+    {
+      "name": "Abp.AuthToken"
+    }
+  ]
+}

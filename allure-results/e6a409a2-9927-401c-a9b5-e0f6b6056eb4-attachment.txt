@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "i3v2-qa.simplifyi3.com",
+    "httpOnly": false,
+    "name": "test1",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1234"
+  },
+  {
+    "domain": "i3v2-qa.simplifyi3.com",
+    "httpOnly": false,
+    "name": "test",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "123"
+  }
+]
